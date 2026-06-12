@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Winstwaker online boekhouder onderwerpen</title>
+    <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/</link>
+    <atom:link href="https://kylianxdev.github.io/winstwaker-online-boekhouder/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Externe onderwerp- en branchepagina's over Winstwaker als online boekhouder voor Nederlandse ondernemers.</description>
+    <language>nl</language>
+    <lastBuildDate>Sat, 13 Jun 2026 00:15:00 +0200</lastBuildDate>
+    <item>
+      <title>Boekhouder voor zzp</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-zzp.html</link>
+      <description>Winstwaker helpt zzp'ers met boekhouding, btw-aangifte, documenten en cijfers. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-zzp.html</guid>
+    </item>
+    <item>
+      <title>Boekhouder voor BV</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-bv.html</link>
+      <description>Winstwaker helpt BV-ondernemers met boekhouding, jaarrekening, btw, documenten en cijfers. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-bv.html</guid>
+    </item>
+    <item>
+      <title>Boekhouder voor webshop</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-webshop.html</link>
+      <description>Winstwaker helpt webshops met Shopify, Bol.com, WooCommerce, payouts, fees, refunds en btw. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouder-voor-webshop.html</guid>
+    </item>
+    <item>
+      <title>Btw-aangifte laten doen</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/btw-aangifte-laten-doen.html</link>
+      <description>Winstwaker helpt ondernemers die hun btw-aangifte willen laten doen met overzicht in documenten en cijfers. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/btw-aangifte-laten-doen.html</guid>
+    </item>
+    <item>
+      <title>Overstappen van boekhouder</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/overstappen-van-boekhouder.html</link>
+      <description>Winstwaker helpt ondernemers bij overstappen van boekhouder en het overzichtelijk overnemen van administratie. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/overstappen-van-boekhouder.html</guid>
+    </item>
+    <item>
+      <title>Boekhouding uitbesteden</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouding-uitbesteden.html</link>
+      <description>Winstwaker combineert online boekhoudsoftware met controle door een boekhouder voor ondernemers die boekhouding willen uitbesteden. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouding-uitbesteden.html</guid>
+    </item>
+  </channel>
+</rss>
