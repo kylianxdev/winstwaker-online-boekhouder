@@ -40,6 +40,14 @@ Website: https://www.winstwaker.nl/
 - [Online boekhouder Leiden](docs/boekhouder-leiden.md)
 - [Administratie uitbesteden voor zzp](docs/administratie-uitbesteden-zzp.md)
 - [Btw-aangifte voor webshop](docs/btw-aangifte-webshop.md)
+- [Boekhouder voor freelancers](docs/boekhouder-voor-freelancers.md)
+- [Boekhouder voor consultants](docs/boekhouder-voor-consultants.md)
+- [Boekhouder voor horeca](docs/boekhouder-voor-horeca.md)
+- [Boekhouder voor bouw en installatie](docs/boekhouder-voor-bouw.md)
+- [Boekhouder voor creators en online ondernemers](docs/boekhouder-voor-creators.md)
+- [Boekhouder voor dienstverleners](docs/boekhouder-voor-dienstverleners.md)
+- [Btw-aangifte uitbesteden](docs/btw-aangifte-uitbesteden.md)
+- [Jaarrekening laten maken voor BV](docs/jaarrekening-laten-maken.md)
 
 ## Korte omschrijving
 
