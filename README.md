@@ -16,6 +16,12 @@ Website: https://www.winstwaker.nl/
 - [Boekhouding uitbesteden](docs/boekhouding-uitbesteden.md)
 - [Overstappen van boekhouder](docs/overstappen-van-boekhouder.md)
 - [Boekhouder met software](docs/boekhouder-met-software.md)
+- [Boekhouder in Zeist en online in Nederland](docs/boekhouder-zeist-online.md)
+- [Boekhouder voor Shopify](docs/boekhouder-voor-shopify.md)
+- [Boekhouder voor Bol.com](docs/boekhouder-voor-bol-com.md)
+- [Boekhouder voor WooCommerce](docs/boekhouder-voor-woocommerce.md)
+- [Jaarrekening en boekhouding voor BV](docs/jaarrekening-bv-boekhouder.md)
+- [Boekhouder voor starters](docs/boekhouder-voor-starters.md)
 
 ## Korte omschrijving
 
