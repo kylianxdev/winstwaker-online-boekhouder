@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kylianxdev.github.io/winstwaker-online-boekhouder/sitemap.xml
