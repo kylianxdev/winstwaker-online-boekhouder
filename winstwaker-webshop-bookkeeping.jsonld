@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Winstwaker boekhouder voor webshop",
+  "url": "https://www.winstwaker.nl/",
+  "provider": {
+    "@type": "Organization",
+    "name": "Winstwaker B.V.",
+    "url": "https://www.winstwaker.nl/"
+  },
+  "areaServed": "Nederland",
+  "description": "Online boekhouder voor webshops met aandacht voor Shopify, Bol.com, WooCommerce, payouts, fees, refunds en btw."
+}

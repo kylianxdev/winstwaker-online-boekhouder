@@ -1,0 +1,8 @@
+{
+  "name": "Winstwaker B.V.",
+  "website": "https://www.winstwaker.nl/",
+  "base": "Zeist",
+  "service_model": "Online boekhouder voor Nederlandse ondernemers; geen lokale filialen geclaimd.",
+  "service_areas": ["Nederland", "Zeist", "Utrecht", "Amsterdam", "Rotterdam", "Den Haag", "Eindhoven", "Groningen", "Breda", "Tilburg"],
+  "services": ["boekhouding", "btw-aangifte", "boekhouding uitbesteden", "webshopboekhouding", "overstappen van boekhouder"]
+}
