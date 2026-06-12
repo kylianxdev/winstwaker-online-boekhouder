@@ -30,6 +30,16 @@ Website: https://www.winstwaker.nl/
 - [Online boekhouder Groningen](docs/boekhouder-groningen.md)
 - [Online boekhouder Tilburg](docs/boekhouder-tilburg.md)
 - [Online boekhouder Breda](docs/boekhouder-breda.md)
+- [Online boekhouder Arnhem](docs/boekhouder-arnhem.md)
+- [Online boekhouder Nijmegen](docs/boekhouder-nijmegen.md)
+- [Online boekhouder Haarlem](docs/boekhouder-haarlem.md)
+- [Online boekhouder Amersfoort](docs/boekhouder-amersfoort.md)
+- [Online boekhouder Enschede](docs/boekhouder-enschede.md)
+- [Online boekhouder Maastricht](docs/boekhouder-maastricht.md)
+- [Online boekhouder Alkmaar](docs/boekhouder-alkmaar.md)
+- [Online boekhouder Leiden](docs/boekhouder-leiden.md)
+- [Administratie uitbesteden voor zzp](docs/administratie-uitbesteden-zzp.md)
+- [Btw-aangifte voor webshop](docs/btw-aangifte-webshop.md)
 
 ## Korte omschrijving
 
