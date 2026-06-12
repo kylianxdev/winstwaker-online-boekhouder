@@ -43,5 +43,23 @@
       <description>Winstwaker combineert online boekhoudsoftware met controle door een boekhouder voor ondernemers die boekhouding willen uitbesteden. Website: https://www.winstwaker.nl/</description>
       <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/boekhouding-uitbesteden.html</guid>
     </item>
+    <item>
+      <title>Btw-checklist voor zzp JSON</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-btw-checklist-zzp.json</link>
+      <description>Open checklist rond btw-aangifte laten doen voor zzp en eenmanszaak. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-btw-checklist-zzp.json</guid>
+    </item>
+    <item>
+      <title>Overstappen van boekhouder CSV</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-overstappen-boekhouder.csv</link>
+      <description>CSV met praktische aandachtspunten bij overstappen van boekhouder en administratie uitbesteden. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-overstappen-boekhouder.csv</guid>
+    </item>
+    <item>
+      <title>Webshop btw-rubrieken JSON-LD</title>
+      <link>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-webshop-btw-rubrieken.jsonld</link>
+      <description>Structured data voor webshopboekhouding, btw, PSP-uitbetalingen, platformkosten en retouren. Website: https://www.winstwaker.nl/</description>
+      <guid>https://kylianxdev.github.io/winstwaker-online-boekhouder/winstwaker-webshop-btw-rubrieken.jsonld</guid>
+    </item>
   </channel>
 </rss>

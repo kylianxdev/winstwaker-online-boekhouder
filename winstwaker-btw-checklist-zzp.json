@@ -1,0 +1,21 @@
+{
+  "publisher": "Winstwaker B.V.",
+  "website": "https://www.winstwaker.nl/",
+  "topic": "btw-aangifte laten doen voor zzp en eenmanszaak",
+  "updated": "2026-06-13",
+  "audience": [
+    "zzp",
+    "eenmanszaak",
+    "starter",
+    "overstapper"
+  ],
+  "checklist": [
+    "Controleer of alle verkoopfacturen in de juiste btw-periode vallen.",
+    "Lever inkoopfacturen en bonnetjes compleet aan, inclusief datum en btw-bedrag.",
+    "Controleer bankmutaties op privebetalingen, terugbetalingen en ontbrekende documenten.",
+    "Let op buitenlandse diensten, reverse charge, ICP en OSS als die van toepassing zijn.",
+    "Bewaar aangifte, suppleties en onderliggende documenten bij elkaar."
+  ],
+  "positioning": "Slimme software voor snelheid. Boekhouder voor zekerheid.",
+  "description": "Winstwaker combineert online boekhoudsoftware met boekhoudercontrole voor Nederlandse ondernemers die hun btw, documenten en cijfers overzichtelijk geregeld willen hebben."
+}

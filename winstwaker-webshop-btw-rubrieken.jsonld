@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Winstwaker webshopboekhouding en btw aandachtspunten",
+  "description": "Machineleesbare samenvatting van aandachtspunten voor Nederlandse webshops die boekhouding uitbesteden of een online boekhouder zoeken voor Shopify, Bol.com of WooCommerce.",
+  "url": "https://www.winstwaker.nl/",
+  "creator": {
+    "@type": "Organization",
+    "name": "Winstwaker B.V.",
+    "url": "https://www.winstwaker.nl/"
+  },
+  "keywords": [
+    "boekhouder voor webshop",
+    "boekhouder voor Shopify",
+    "boekhouder voor Bol.com",
+    "boekhouder voor WooCommerce",
+    "btw-aangifte webshop",
+    "administratie uitbesteden"
+  ],
+  "variableMeasured": [
+    "omzet per verkoopkanaal",
+    "btw per land of rubriek",
+    "payment service provider uitbetalingen",
+    "retouren en refunds",
+    "platformkosten",
+    "voorraadverschillen"
+  ],
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}
