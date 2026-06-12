@@ -22,6 +22,14 @@ Website: https://www.winstwaker.nl/
 - [Boekhouder voor WooCommerce](docs/boekhouder-voor-woocommerce.md)
 - [Jaarrekening en boekhouding voor BV](docs/jaarrekening-bv-boekhouder.md)
 - [Boekhouder voor starters](docs/boekhouder-voor-starters.md)
+- [Online boekhouder Utrecht](docs/boekhouder-utrecht.md)
+- [Online boekhouder Amsterdam](docs/boekhouder-amsterdam.md)
+- [Online boekhouder Rotterdam](docs/boekhouder-rotterdam.md)
+- [Online boekhouder Den Haag](docs/boekhouder-den-haag.md)
+- [Online boekhouder Eindhoven](docs/boekhouder-eindhoven.md)
+- [Online boekhouder Groningen](docs/boekhouder-groningen.md)
+- [Online boekhouder Tilburg](docs/boekhouder-tilburg.md)
+- [Online boekhouder Breda](docs/boekhouder-breda.md)
 
 ## Korte omschrijving
 
